@@ -1,0 +1,147 @@
+Video: resized_videos/giving or receiving award/JBWeDivEHFI.mp4
+True Label: giving or receiving award
+Predicted Classes with Probabilities:
+  abseiling: 0.0519
+  milking cow: 0.0519
+  wrestling: 0.0512
+------------------------------
+Video: resized_videos/wrapping present/HscLLuC-PQs.mp4
+True Label: wrapping present
+Predicted Classes with Probabilities:
+  abseiling: 0.0519
+  milking cow: 0.0519
+  wrestling: 0.0512
+------------------------------
+Video: resized_videos/wrestling/yxJHCSA35Ns.mp4
+True Label: wrestling
+Predicted Classes with Probabilities:
+  abseiling: 0.0519
+  milking cow: 0.0519
+  wrestling: 0.0512
+------------------------------
+Video: resized_videos/answering questions/j6ogVLOLQug.mp4
+True Label: answering questions
+Predicted Classes with Probabilities:
+  abseiling: 0.0519
+  milking cow: 0.0519
+  wrestling: 0.0512
+------------------------------
+Video: resized_videos/checking tires/pqlY2l0KhEY.mp4
+True Label: checking tires
+Predicted Classes with Probabilities:
+  abseiling: 0.0519
+  milking cow: 0.0519
+  wrestling: 0.0512
+------------------------------
+Video: resized_videos/air drumming/5M80ZTWfzOU.mp4
+True Label: air drumming
+Predicted Classes with Probabilities:
+  abseiling: 0.0519
+  milking cow: 0.0519
+  wrestling: 0.0512
+------------------------------
+Video: resized_videos/playing trombone/ScZAUtVAShI.mp4
+True Label: playing trombone
+Predicted Classes with Probabilities:
+  abseiling: 0.0519
+  milking cow: 0.0519
+  wrestling: 0.0512
+------------------------------
+Video: resized_videos/milking cow/hbndP8yYwc0.mp4
+True Label: milking cow
+Predicted Classes with Probabilities:
+  abseiling: 0.0519
+  milking cow: 0.0519
+  wrestling: 0.0512
+------------------------------
+Video: resized_videos/applauding/GBG55ZwGS-Y.mp4
+True Label: applauding
+Predicted Classes with Probabilities:
+  abseiling: 0.0519
+  milking cow: 0.0519
+  wrestling: 0.0512
+------------------------------
+Video: resized_videos/moving furniture/W4EHHzVotV0.mp4
+True Label: moving furniture
+Predicted Classes with Probabilities:
+  abseiling: 0.0519
+  milking cow: 0.0519
+  wrestling: 0.0512
+------------------------------
+Video: resized_videos/abseiling/6fBBpbxDuTw.mp4
+True Label: abseiling
+Predicted Classes with Probabilities:
+  abseiling: 0.0519
+  milking cow: 0.0519
+  wrestling: 0.0512
+------------------------------
+Video: resized_videos/pushing wheelchair/zsGazDD17iQ.mp4
+True Label: pushing wheelchair
+Predicted Classes with Probabilities:
+  abseiling: 0.0519
+  milking cow: 0.0519
+  wrestling: 0.0512
+------------------------------
+Video: resized_videos/riding elephant/9PcEzApDt1g.mp4
+True Label: riding elephant
+Predicted Classes with Probabilities:
+  abseiling: 0.0519
+  milking cow: 0.0519
+  wrestling: 0.0512
+------------------------------
+Video: resized_videos/opening bottle/s84sJC48qG4.mp4
+True Label: opening bottle
+Predicted Classes with Probabilities:
+  abseiling: 0.0519
+  milking cow: 0.0519
+  wrestling: 0.0512
+------------------------------
+Video: resized_videos/playing harp/FwTXfopti-k.mp4
+True Label: playing harp
+Predicted Classes with Probabilities:
+  abseiling: 0.0519
+  milking cow: 0.0519
+  wrestling: 0.0512
+------------------------------
+Video: resized_videos/applying cream/5lrxGVViPFE.mp4
+True Label: applying cream
+Predicted Classes with Probabilities:
+  abseiling: 0.0519
+  milking cow: 0.0519
+  wrestling: 0.0512
+------------------------------
+Video: resized_videos/throwing axe/Q54mqN2Sh3I.mp4
+True Label: throwing axe
+Predicted Classes with Probabilities:
+  abseiling: 0.0519
+  milking cow: 0.0519
+  wrestling: 0.0512
+------------------------------
+Video: resized_videos/archery/01kR4-7DbN8.mp4
+True Label: archery
+Predicted Classes with Probabilities:
+  abseiling: 0.0519
+  milking cow: 0.0519
+  wrestling: 0.0512
+------------------------------
+Video: resized_videos/doing aerobics/yiiBzOiweTU.mp4
+True Label: doing aerobics
+Predicted Classes with Probabilities:
+  abseiling: 0.0519
+  milking cow: 0.0519
+  wrestling: 0.0512
+------------------------------
+Video: resized_videos/juggling soccer ball/wGkb460BxKM.mp4
+True Label: juggling soccer ball
+Predicted Classes with Probabilities:
+  abseiling: 0.0519
+  milking cow: 0.0519
+  wrestling: 0.0512
+------------------------------
+Video: resized_videos/waxing chest/pgGsZrxijcE.mp4
+True Label: waxing chest
+Predicted Classes with Probabilities:
+  abseiling: 0.0519
+  milking cow: 0.0519
+  wrestling: 0.0512
+------------------------------
