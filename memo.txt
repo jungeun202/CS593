@@ -1,0 +1,30 @@
+lr=2e-5, weight_decay=2e-3 hidden_dim=256, num_layers=6
+------------------------------
+Video: resized_videos/abseiling/6fBBpbxDuTw.mp4
+True Label: moving furniture
+Predicted Classes with Probabilities:
+  moving furniture: 0.7756
+  checking tires: 0.0566
+  archery: 0.0458
+------------------------------
+Video: resized_videos/riding elephant/9PcEzApDt1g.mp4
+True Label: playing harp
+Predicted Classes with Probabilities:
+  pushing wheelchair: 0.5016
+  juggling soccer ball: 0.2333
+  playing harp: 0.1158
+------------------------------
+Video: resized_videos/playing harp/FwTXfopti-k.mp4
+True Label: pushing wheelchair
+Predicted Classes with Probabilities:
+  pushing wheelchair: 0.3614
+  juggling soccer ball: 0.3195
+  playing harp: 0.1573
+------------------------------
+Video: resized_videos/waxing chest/pgGsZrxijcE.mp4
+True Label: wrestling
+Predicted Classes with Probabilities:
+  wrestling: 0.2296
+  pushing wheelchair: 0.1965
+  waxing chest: 0.1834
+------------------------------
