@@ -28,3 +28,47 @@ Predicted Classes with Probabilities:
   pushing wheelchair: 0.1965
   waxing chest: 0.1834
 ------------------------------
+lr=2e-5, weight_decay=2e-3 hidden_dim=256, num_layers=8
+Video: resized_videos/giving or receiving award/JBWeDivEHFI.mp4
+True Label: abseiling
+Predicted Classes with Probabilities:
+  opening bottle: 0.5959
+  waxing chest: 0.1529
+  abseiling: 0.0613
+------------------------------
+lr=2e-3, weight_decay=2e-3 hidden_dim=256, num_layers=8
+  Video: resized_videos/wrapping present/HscLLuC-PQs.mp4
+True Label: air drumming
+Predicted Classes with Probabilities:
+  air drumming: 0.1207
+  throwing axe: 0.1079
+  playing harp: 0.1062
+------------------------------
+Video: resized_videos/archery/01kR4-7DbN8.mp4
+True Label: throwing axe
+Predicted Classes with Probabilities:
+  air drumming: 0.1207
+  throwing axe: 0.1079
+  playing harp: 0.1062
+------------------------------
+lr=2e-5, weight_decay=2e-3 hidden_dim=256, num_layers=6
+Video: resized_videos/giving or receiving award/JBWeDivEHFI.mp4
+True Label: abseiling
+Predicted Classes with Probabilities:
+  opening bottle: 0.3625
+  playing trombone: 0.2373
+  abseiling: 0.1616
+------------------------------
+  Video: resized_videos/checking tires/pqlY2l0KhEY.mp4
+True Label: archery
+Predicted Classes with Probabilities:
+  juggling soccer ball: 0.6297
+  checking tires: 0.1446
+  archery: 0.0817
+------------------------------
+  Video: resized_videos/milking cow/hbndP8yYwc0.mp4
+True Label: giving or receiving award
+Predicted Classes with Probabilities:
+  archery: 0.3529
+  giving or receiving award: 0.1435
+  juggling soccer ball: 0.1289

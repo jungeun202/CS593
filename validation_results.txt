@@ -1,147 +1,147 @@
 Video: resized_videos/giving or receiving award/JBWeDivEHFI.mp4
 True Label: abseiling
 Predicted Classes with Probabilities:
-  wrapping present: 0.3833
-  waxing chest: 0.2801
-  opening bottle: 0.1209
+  opening bottle: 0.3625
+  playing trombone: 0.2373
+  abseiling: 0.1616
 ------------------------------
 Video: resized_videos/wrapping present/HscLLuC-PQs.mp4
 True Label: air drumming
 Predicted Classes with Probabilities:
-  juggling soccer ball: 0.5417
-  pushing wheelchair: 0.2503
-  playing harp: 0.0434
+  air drumming: 0.1207
+  throwing axe: 0.1079
+  playing harp: 0.1062
 ------------------------------
 Video: resized_videos/wrestling/yxJHCSA35Ns.mp4
 True Label: applauding
 Predicted Classes with Probabilities:
-  moving furniture: 0.7613
-  checking tires: 0.0765
-  archery: 0.0593
+  moving furniture: 0.5216
+  archery: 0.1377
+  air drumming: 0.0717
 ------------------------------
 Video: resized_videos/answering questions/j6ogVLOLQug.mp4
 True Label: applying cream
 Predicted Classes with Probabilities:
-  juggling soccer ball: 0.5696
-  pushing wheelchair: 0.1343
-  checking tires: 0.1051
+  juggling soccer ball: 0.3650
+  checking tires: 0.2315
+  playing harp: 0.0974
 ------------------------------
 Video: resized_videos/checking tires/pqlY2l0KhEY.mp4
 True Label: archery
 Predicted Classes with Probabilities:
-  juggling soccer ball: 0.5332
-  checking tires: 0.1379
-  playing harp: 0.0928
+  juggling soccer ball: 0.6297
+  archery: 0.1446
+  checking tires: 0.0817
 ------------------------------
 Video: resized_videos/air drumming/5M80ZTWfzOU.mp4
 True Label: checking tires
 Predicted Classes with Probabilities:
-  milking cow: 0.7729
-  abseiling: 0.0633
-  moving furniture: 0.0426
+  milking cow: 0.2710
+  opening bottle: 0.2530
+  giving or receiving award: 0.1484
 ------------------------------
 Video: resized_videos/playing trombone/ScZAUtVAShI.mp4
 True Label: doing aerobics
 Predicted Classes with Probabilities:
-  waxing chest: 0.4332
-  riding elephant: 0.2172
-  applying cream: 0.1999
+  wrestling: 0.2745
+  waxing chest: 0.1090
+  riding elephant: 0.1074
 ------------------------------
 Video: resized_videos/milking cow/hbndP8yYwc0.mp4
 True Label: giving or receiving award
 Predicted Classes with Probabilities:
-  giving or receiving award: 0.2961
-  archery: 0.2076
-  juggling soccer ball: 0.1533
+  archery: 0.3529
+  giving or receiving award: 0.1435
+  juggling soccer ball: 0.1289
 ------------------------------
 Video: resized_videos/applauding/GBG55ZwGS-Y.mp4
 True Label: juggling soccer ball
 Predicted Classes with Probabilities:
-  waxing chest: 0.4786
-  milking cow: 0.2335
-  abseiling: 0.1031
+  opening bottle: 0.2180
+  milking cow: 0.2110
+  abseiling: 0.1761
 ------------------------------
 Video: resized_videos/moving furniture/W4EHHzVotV0.mp4
 True Label: milking cow
 Predicted Classes with Probabilities:
-  wrestling: 0.5121
-  giving or receiving award: 0.2525
-  milking cow: 0.0812
+  wrestling: 0.3647
+  giving or receiving award: 0.3190
+  playing trombone: 0.0593
 ------------------------------
 Video: resized_videos/abseiling/6fBBpbxDuTw.mp4
 True Label: moving furniture
 Predicted Classes with Probabilities:
-  moving furniture: 0.7174
-  checking tires: 0.0935
-  throwing axe: 0.0643
+  moving furniture: 0.7756
+  checking tires: 0.0566
+  archery: 0.0458
 ------------------------------
 Video: resized_videos/pushing wheelchair/zsGazDD17iQ.mp4
 True Label: opening bottle
 Predicted Classes with Probabilities:
-  moving furniture: 0.3759
-  archery: 0.1960
-  checking tires: 0.1776
+  archery: 0.2752
+  air drumming: 0.1802
+  moving furniture: 0.1758
 ------------------------------
 Video: resized_videos/riding elephant/9PcEzApDt1g.mp4
 True Label: playing harp
 Predicted Classes with Probabilities:
-  juggling soccer ball: 0.4516
-  pushing wheelchair: 0.3383
-  applying cream: 0.0578
+  pushing wheelchair: 0.5016
+  playing harp: 0.2333
+  juggling soccer ball: 0.1158
 ------------------------------
 Video: resized_videos/opening bottle/s84sJC48qG4.mp4
 True Label: playing trombone
 Predicted Classes with Probabilities:
-  juggling soccer ball: 0.6002
-  pushing wheelchair: 0.2051
-  playing harp: 0.0669
+  juggling soccer ball: 0.3917
+  checking tires: 0.2612
+  playing harp: 0.0763
 ------------------------------
 Video: resized_videos/playing harp/FwTXfopti-k.mp4
 True Label: pushing wheelchair
 Predicted Classes with Probabilities:
-  juggling soccer ball: 0.5347
-  pushing wheelchair: 0.2509
-  playing harp: 0.0680
+  pushing wheelchair: 0.3614
+  juggling soccer ball: 0.3195
+  playing harp: 0.1573
 ------------------------------
 Video: resized_videos/applying cream/5lrxGVViPFE.mp4
 True Label: questioning and answering
 Predicted Classes with Probabilities:
-  pushing wheelchair: 0.3126
-  juggling soccer ball: 0.2964
-  wrestling: 0.1003
+  juggling soccer ball: 0.3684
+  checking tires: 0.3129
+  applying cream: 0.0732
 ------------------------------
 Video: resized_videos/throwing axe/Q54mqN2Sh3I.mp4
 True Label: riding elephant
 Predicted Classes with Probabilities:
-  moving furniture: 0.5401
-  throwing axe: 0.2047
-  wrapping present: 0.0823
+  moving furniture: 0.4802
+  wrapping present: 0.1609
+  milking cow: 0.1235
 ------------------------------
 Video: resized_videos/archery/01kR4-7DbN8.mp4
 True Label: throwing axe
 Predicted Classes with Probabilities:
-  juggling soccer ball: 0.3867
-  pushing wheelchair: 0.1983
-  playing harp: 0.1116
+  air drumming: 0.1207
+  throwing axe: 0.1079
+  playing harp: 0.1062
 ------------------------------
 Video: resized_videos/doing aerobics/yiiBzOiweTU.mp4
 True Label: waxing chest
 Predicted Classes with Probabilities:
-  juggling soccer ball: 0.5570
-  pushing wheelchair: 0.2590
-  playing harp: 0.0651
+  juggling soccer ball: 0.3601
+  checking tires: 0.2473
+  playing harp: 0.0847
 ------------------------------
 Video: resized_videos/juggling soccer ball/wGkb460BxKM.mp4
 True Label: wrapping present
 Predicted Classes with Probabilities:
-  checking tires: 0.2908
-  moving furniture: 0.2644
-  archery: 0.1463
+  archery: 0.2412
+  moving furniture: 0.1481
+  air drumming: 0.1236
 ------------------------------
 Video: resized_videos/waxing chest/pgGsZrxijcE.mp4
 True Label: wrestling
 Predicted Classes with Probabilities:
-  riding elephant: 0.2450
-  applying cream: 0.2375
-  waxing chest: 0.1613
+  wrestling: 0.2254
+  applying cream: 0.1317
+  riding elephant: 0.1310
 ------------------------------
